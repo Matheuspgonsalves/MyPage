@@ -1,0 +1,13 @@
+#container {
+    height: 100vh;
+    background-color: #2f2e8a;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+}
+
+#header {
+    background-color: aliceblue;
+}
